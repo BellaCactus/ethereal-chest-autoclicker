@@ -1,6 +1,6 @@
 <div align="center">
 
-# <3 petheral chest autoclicker
+# <3 ethereal chest autoclicker
 
 coordinate-based clicking script (pyautogui).  
 built for repetitive in-game ui actions.
